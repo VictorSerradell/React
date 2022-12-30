@@ -1,2 +1,2 @@
 # React
-Works on React :)
+Works with React :)
